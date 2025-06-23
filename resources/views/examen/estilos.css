@@ -1,0 +1,38 @@
+/* Estilos generales */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Títulos */
+h1 {
+  color: #005bbb;
+  text-align: center;
+}
+
+/* Enlaces */
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Botón */
+.boton {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.boton:hover {
+  background-color: #005fa3;
+}
